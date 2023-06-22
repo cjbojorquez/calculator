@@ -1,0 +1,44 @@
+@options
+@packages
+-encoding
+'UTF-8'
+-protected
+-source
+'1.8'
+-sourcepath
+'C:/CursosJava/Struts2/New Folder/calculator/src/main/java'
+-author
+-bottom
+'Copyright &#169; 2023. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'C:/CursosJava/Struts2/New Folder/calculator/target/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'calculator 1.0-SNAPSHOT API'
+-linkoffline
+'https://docs.oracle.com/javase/8/docs/api' 'C:/CursosJava/Struts2/New Folder/calculator/target/javadoc-bundle-options'
+-use
+-version
+-windowtitle
+'calculator 1.0-SNAPSHOT API'
+gt.com.bc.botones.operators
+gt.com.bc.buttons
+gt.com.bc
+C:\CursosJava\Struts2\New Folder\calculator\src\main\java = 1687331569742
+C:\CursosJava\Struts2\New Folder\calculator\target\apidocs\allclasses-frame.html = 1687413465049
+C:\CursosJava\Struts2\New Folder\calculator\target\apidocs\allclasses-noframe.html = 1687413465055
+C:\CursosJava\Struts2\New Folder\calculator\target\apidocs\constant-values.html = 1687413464243
+C:\CursosJava\Struts2\New Folder\calculator\target\apidocs\deprecated-list.html = 1687413465043
+C:\CursosJava\Struts2\New Folder\calculator\target\apidocs\help-doc.html = 1687413465072
+C:\CursosJava\Struts2\New Folder\calculator\target\apidocs\index-all.html = 1687413465030
+C:\CursosJava\Struts2\New Folder\calculator\target\apidocs\index.html = 1687413465060
+C:\CursosJava\Struts2\New Folder\calculator\target\apidocs\overview-frame.html = 1687413464175
+C:\CursosJava\Struts2\New Folder\calculator\target\apidocs\overview-summary.html = 1687413465066
+C:\CursosJava\Struts2\New Folder\calculator\target\apidocs\overview-tree.html = 1687413464889
+C:\CursosJava\Struts2\New Folder\calculator\target\apidocs\package-list = 1687413464170
+C:\CursosJava\Struts2\New Folder\calculator\target\apidocs\script.js = 1687413465086
+C:\CursosJava\Struts2\New Folder\calculator\target\apidocs\serialized-form.html = 1687413464256
+C:\CursosJava\Struts2\New Folder\calculator\target\apidocs\stylesheet.css = 1687413465081
