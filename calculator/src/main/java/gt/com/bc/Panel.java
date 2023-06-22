@@ -4,13 +4,13 @@
  */
 package gt.com.bc;
 
-import gt.com.bc.botones.operators.Addition;
-import gt.com.bc.botones.operators.Clean;
-import gt.com.bc.botones.operators.Division;
-import gt.com.bc.botones.operators.Equal;
-import gt.com.bc.botones.operators.Multiplication;
-import gt.com.bc.botones.operators.Operator;
-import gt.com.bc.botones.operators.Sustraction;
+import gt.com.bc.buttons.operators.Addition;
+import gt.com.bc.buttons.operators.Clean;
+import gt.com.bc.buttons.operators.Division;
+import gt.com.bc.buttons.operators.Equal;
+import gt.com.bc.buttons.operators.Multiplication;
+import gt.com.bc.buttons.operators.Operator;
+import gt.com.bc.buttons.operators.Sustraction;
 import gt.com.bc.buttons.Number;
 import java.awt.Color;
 import java.awt.Dimension;
